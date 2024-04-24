@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/Pipeline/Pipeline.iml" filepath="$PROJECT_DIR$/Pipeline/Pipeline.iml" />
       <module fileurl="file://$PROJECT_DIR$/Predicate/Predicate.iml" filepath="$PROJECT_DIR$/Predicate/Predicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreinoExerc/TreinoExerc.iml" filepath="$PROJECT_DIR$/TreinoExerc/TreinoExerc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreinoExerc_II/TreinoExerc_II.iml" filepath="$PROJECT_DIR$/TreinoExerc_II/TreinoExerc_II.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda.iml" filepath="$PROJECT_DIR$/lambda.iml" />
     </modules>
   </component>
